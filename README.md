@@ -2,3 +2,4 @@
 2. Data Preprocessing includes various methods like Count vectorizer, Tfidf Vectorizer and Word2Vec to handle with text data.
 3. Movie Recommendation System is the application of the above processes of feature extraction and data preprocessing to build a model for movie recomendation using Machine Learning.
 4. Overview on Transformers gives us a basic understanding of pipeline, tokenizer and their usage.
+5. Text_to_Image_Generation uses StableDiffusionPipeline for converting text prompt into the desired image/images. 
